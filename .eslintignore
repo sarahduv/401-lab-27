@@ -4,3 +4,4 @@ node_modules/**
 **/middleware/404.js
 **/middleware/500.js
 **/middleware.test.js
+**/counter.test.js
